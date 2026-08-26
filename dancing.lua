@@ -14,6 +14,5 @@ task.spawn(function()
     rconsoleprint("what a cute femboy using this now~")
 end)
 
--- Simulated loading process
 task.wait(7) 
 isDoneLoading = true
